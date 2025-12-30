@@ -17,6 +17,24 @@ permettant la gestion des personnes via une API REST JAX-RS.
 - JavaScript (Fetch API)
 
 
+## Instructions pour exécuter le projet :
+on lance le projet à travers Eclipse IDE. Donc pour lancer le projet :
+
+Cliquer droite sur le dossier du projet
+Run as
+Run on a server
+Sélectionner Tomcat v9.0
+
+
+##lien du Github
+https://github.com/Farah0707/ProjetSOA_farahncir_siwarsouli.git
+
+
+##lien du vidéo 
+
+
+
 ## Auteur
 - Nom :Farah Ncir et Siwar Souli - tp6
 - Filière : li3
+
