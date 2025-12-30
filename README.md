@@ -30,12 +30,13 @@ Sélectionner Tomcat v9.0
 https://github.com/Farah0707/ProjetSOA_farahncir_siwarsouli.git
 
 
-##lien du vidéo 
+##lien du vidéo : https://drive.google.com/drive/folders/1ZW7ooPnmNfz_dLBcVmMzlzxRKrftYBMO?usp=sharing
 
 
 
 ## Auteur
 - Nom :Farah Ncir et Siwar Souli - tp6
 - Filière : li3
+
 
 
